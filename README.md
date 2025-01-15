@@ -1,5 +1,3 @@
-# asos-vs-prism-performance
-
 # ASOS vs Prism Performance Benchmark (2023)
 
 ## Overview
