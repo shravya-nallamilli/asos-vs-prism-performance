@@ -40,8 +40,8 @@ This file summarises the key insights and findings from the KPI analysis compari
 3. **Boost Average Basket Value:**  
    Introduce bundle deals, “buy one, get one” offers, and related product suggestions at checkout to encourage higher spending per transaction.
 
-4. **Track and Optimize Ad Spend:**  
-   Ensure that advertising campaigns focus on high-performing segments to maximize returns.
+4. **Track and Optimise Ad Spend:**  
+   Ensure that advertising campaigns focus on high-performing segments to maximise returns.
 
 ---
 
