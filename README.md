@@ -4,9 +4,8 @@
 This repository contains a benchmarking analysis comparing ASOS's 2023 financial performance with Prism's internal KPIs. The analysis focuses on key performance metrics such as gross margin, active customers, visits, orders, and expenses.
 
 ## Project Structure
-- **`analysis.docx`**: The full comparison document with KPI tables and SQL query results.
+- **`analysis.md`**: The full comparison document with KPI tables and SQL query results.
 - **`sql_queries.sql`**: SQL scripts used to retrieve data for each KPI.
-- **`results_summary.md`**: A summary of insights based on the comparison.
 
 ## Key Performance Indicators (KPIs)
 | **KPI**                | **ASOS (2023)** | **Prism** |
